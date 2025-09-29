@@ -18,7 +18,7 @@ O objetivo foi explorar o uso de **prompts personalizados** para gerar conteúdo
 
 ## 📂 Estrutura do Repositório
 - [`audios/`](./audios) → Áudios gerados durante o projeto  
-- [`docs/`](./docs) → Documentos de apoio (como o PDF com os prompts utilizados)  
+- [`docs/`](docs) → Documentos de apoio (como o PDF com os prompts utilizados)  
 - `README.md` → Este arquivo de apresentação  
 
 ---

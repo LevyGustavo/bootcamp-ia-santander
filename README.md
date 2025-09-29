@@ -23,12 +23,6 @@ O objetivo foi explorar o uso de **prompts personalizados** para gerar conteúdo
 
 ---
 
-## 📝 Prompts Utilizados
-Todos os prompts que utilizei para criar os áudios estão organizados em:  
-👉 [`docs`](.docs)
-
----
-
 ## 🔊 Áudios Gerados
 O áudio criado com IA e já editado estão disponíveis na pasta:  
 👉 [`audios/`](audio)

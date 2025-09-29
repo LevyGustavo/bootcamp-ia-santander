@@ -25,7 +25,7 @@ O objetivo foi explorar o uso de **prompts personalizados** para gerar conteúdo
 
 ## 📝 Prompts Utilizados
 Todos os prompts que utilizei para criar os áudios estão organizados em:  
-👉 [`docs/prompts.pdf`](.docs)
+👉 [`docs`](.docs)
 
 ---
 

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="bootcamp.png" alt="Logo Bootcamp Santander IA Generativa" width="500"/>
+</p>
+
 # 🎧 Projeto BootCamp Santander - IA Generativa
 
 Este repositório contém meu projeto desenvolvido durante o **BootCamp Santander - IA Generativa**.  
